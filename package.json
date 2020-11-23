@@ -33,7 +33,7 @@
   },
   "main": "build/index.js",
   "files": [
-    "build"
+    "build", "**/*", "**/**/*"
   ],
   "devDependencies": {
     "@babel/cli": "^7.5.5",
